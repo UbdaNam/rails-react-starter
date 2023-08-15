@@ -1,8 +1,7 @@
 import React from "react";
 
-function Greeting Message() {
-  return <div>Greeting Message</div>;
+function Greeting() {
+  return <div>Greeting </div>;
 }
 
 export default Greeting;
- Message
