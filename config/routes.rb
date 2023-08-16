@@ -5,5 +5,6 @@ Rails.application.routes.draw do
   root "messages#index"
 
   get 'messages/index', to: 'messages#index', as: :messages
+  get 'messages/random', to: 'messages#random', as: :random_messages
 
 end
