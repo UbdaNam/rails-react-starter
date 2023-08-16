@@ -41,11 +41,13 @@ This web app is a powerful starting point for building Rails-React web apps. By 
     <li><a href="https://redux.js.org/">Redux</a></li>
   </ul>
 </details>
+<details>
 <summary>Server</summary>
   <ul>
     <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
   </ul>
 </details>
+<details>
 <summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org//">PostgreSQL</a></li>
